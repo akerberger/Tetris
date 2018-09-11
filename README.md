@@ -19,11 +19,14 @@ The listeners-package contains:
  * Listener for the Timer that excecutes commands during the game
  
  The panels-package:
+ 
  GamePanel -     the panel with black background on which the pieces are falling down during the game.
  
  SidePanel -     the whole long panel to the right of the game panel, containing the NextPanel among other things.
  
  NextPanel -     the smal panel to the right (on the SidePanel) displaying what type the next piece will be.
+ 
+ 
  
  
  The pieces-package:
