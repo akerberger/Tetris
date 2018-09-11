@@ -10,8 +10,11 @@ You need to have a text document called "HighScore" in the source code map.
 In the game-package are the following classes:
 
 GUI -             the window of the game
+
 GameController -  manages the logic
+
 ProgramStarter -  main method
+
 HighScore -       class for HighScore objects
 
 The listeners-package contains:
