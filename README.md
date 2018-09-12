@@ -5,6 +5,8 @@ Object oriented version of the game Tetris.
 I have done this to practice object orientated programming and to learn!
 
 
+
+
 You need to have a text document called "HighScore" in the source code map.
 
 game-package:
@@ -41,5 +43,13 @@ listener-package:
  
  (all the sub-classes to Piece = the different types of pieces)
 
+
+
+
+NOT IMPLEMENTED YET:
+
+ - The Paus-button.
+ 
+ - Implementing a short delay once the piece has hit the bottom or another piece in order for the player to be able to move it sideways before the next piece start falling.
 
 
