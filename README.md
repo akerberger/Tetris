@@ -20,7 +20,7 @@ HighScore -       class for HighScore objects
 listener-package:
 
  * Listeners for the buttons New Game and Pause
- * Listener for the Timer that excecutes commands during the game
+ * Listener for the Timer that calls movePieceDown() during the game, making the pieceInPlay fall downwards.
  
  The panels-package:
  
