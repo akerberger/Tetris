@@ -3,6 +3,8 @@
 Tetris game that I have created to practice object-oriented programming principles.
 
 
+
+
 Game package:
  * ProgramStarter -  main method
  * GUI -             the window of the game
